@@ -1,0 +1,16 @@
+# Dataset files
+data/
+cifar-10-batches-py/
+cifar-10-python.tar.gz
+cifar-100-python.tar.gz
+cifar-100-python/
+
+# Training checkpoints (from previous step)
+*.pth
+*.pt
+latest_checkpoint.pth
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
