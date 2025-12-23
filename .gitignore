@@ -8,6 +8,9 @@ cifar-100-python/
 # Training checkpoints (from previous step)
 *.pth
 *.pt
+*.tar.gz
+*.zip
+*.pkl
 latest_checkpoint.pth
 
 # Python artifacts
